@@ -528,6 +528,15 @@ img {
 .skills__wix{
   width: 80%;
 }
+.skills__adobexd{
+  width: 75%;
+}
+.skills__figma{
+  width: 85%;
+}
+.skills__sketch{
+  width: 80%;
+}
 
 .skills__close .skills__list{
   height: 0;
